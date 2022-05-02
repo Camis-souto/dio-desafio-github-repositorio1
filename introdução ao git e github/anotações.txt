@@ -1,0 +1,3 @@
+Arquivos para download do git :https://git-scm.com/downloads
+
+o Git Bash é um terminal extendido para utilizar o git no computador.
